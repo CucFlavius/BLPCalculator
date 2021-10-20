@@ -1,0 +1,16 @@
+E:\Projects\BLPCalculator\BLPCalculator\bin\Debug\net5.0\BLPCalculator.exe
+E:\Projects\BLPCalculator\BLPCalculator\bin\Debug\net5.0\BLPCalculator.deps.json
+E:\Projects\BLPCalculator\BLPCalculator\bin\Debug\net5.0\BLPCalculator.runtimeconfig.json
+E:\Projects\BLPCalculator\BLPCalculator\bin\Debug\net5.0\BLPCalculator.runtimeconfig.dev.json
+E:\Projects\BLPCalculator\BLPCalculator\bin\Debug\net5.0\BLPCalculator.dll
+E:\Projects\BLPCalculator\BLPCalculator\bin\Debug\net5.0\ref\BLPCalculator.dll
+E:\Projects\BLPCalculator\BLPCalculator\bin\Debug\net5.0\BLPCalculator.pdb
+E:\Projects\BLPCalculator\BLPCalculator\obj\Debug\net5.0\BLPCalculator.csproj.AssemblyReference.cache
+E:\Projects\BLPCalculator\BLPCalculator\obj\Debug\net5.0\BLPCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\BLPCalculator\BLPCalculator\obj\Debug\net5.0\BLPCalculator.AssemblyInfoInputs.cache
+E:\Projects\BLPCalculator\BLPCalculator\obj\Debug\net5.0\BLPCalculator.AssemblyInfo.cs
+E:\Projects\BLPCalculator\BLPCalculator\obj\Debug\net5.0\BLPCalculator.csproj.CoreCompileInputs.cache
+E:\Projects\BLPCalculator\BLPCalculator\obj\Debug\net5.0\BLPCalculator.dll
+E:\Projects\BLPCalculator\BLPCalculator\obj\Debug\net5.0\ref\BLPCalculator.dll
+E:\Projects\BLPCalculator\BLPCalculator\obj\Debug\net5.0\BLPCalculator.pdb
+E:\Projects\BLPCalculator\BLPCalculator\obj\Debug\net5.0\BLPCalculator.genruntimeconfig.cache
